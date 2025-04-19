@@ -3,7 +3,7 @@ versions.v1 = {
   version: "1",
   date: "2025",
   folder: "asset-v1/",
-  looptime: 10656,
+  looptime: 10970,
   bpm: 88,
   totalframe: 494,
   nbpolo: 7,
