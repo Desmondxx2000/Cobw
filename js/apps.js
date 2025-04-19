@@ -3,7 +3,7 @@ versions.v1 = {
   version: "1",
   date: "2025",
   folder: "asset-v1/",
-  looptime: 10333,
+  looptime: 10656,
   bpm: 88,
   totalframe: 494,
   nbpolo: 7,
@@ -22,7 +22,7 @@ versions.v1 = {
       uniqsnd: !0,
     },
     {
-      name: "temp_polo",
+      name: "02_Knurk",
       color: "7D7D7D",
       uniqsnd: !0,
     },
@@ -47,7 +47,7 @@ versions.v1 = {
       uniqsnd: !0,
     },
     {
-      name: "temp_polo",
+      name: "06_Drick",
       color: "7D7D7D",
       uniqsnd: !0,
     },
