@@ -42,12 +42,12 @@ versions.v1 = {
       uniqsnd: !0,
     },
     {
-      name: "temp_polo",
+      name: "06_Drick",
       color: "7D7D7D",
       uniqsnd: !0,
     },
     {
-      name: "06_Drick",
+      name: "temp_polo",
       color: "7D7D7D",
       uniqsnd: !0,
     },
